@@ -1,6 +1,5 @@
 # Job Listing Mobile App
-I created a React Native app completely using JavaScript for a React Native Intern Assignment for Lokal.
-This is not to be used for Personal projects or commercial use outside of this specific context.
+I created a React Native app completely using JavaScript.
 A modern React Native mobile application for browsing and bookmarking job listings. Built with Expo and featuring a sleek, dark-themed UI with smooth animations.
 
 ## Features
